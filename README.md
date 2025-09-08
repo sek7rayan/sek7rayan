@@ -6,7 +6,7 @@
 
 </div>
 
-My name is **Rayan Sekfali**. I am a **Cybersecurity student** and a **Backend Developer** with a strong focus on building reliable and secure systems.  
+Hi i'm **Rayan Sekfali**. I am a **Cybersecurity student** and a **Backend Developer** with a strong focus on building reliable and secure systems.  
 
 I have experience in backend development, particularly in designing and implementing **CRUD applications** and management systems. I am comfortable working with databases, creating **RESTful APIs**, and applying the **MVP (Model–View–Presenter) architecture** to ensure clean, maintainable, and scalable projects. I enjoy structuring backend logic and writing code that solves real-world problems.  
 
