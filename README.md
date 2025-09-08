@@ -76,8 +76,7 @@ My long-term goal is to **combine backend development with cybersecurity**, beca
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sek7rayan&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sek7rayan&layout=compact&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sek7rayan&theme=tokyonight)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sek7rayan&theme=tokyo-night)
+
 
 ---
 
