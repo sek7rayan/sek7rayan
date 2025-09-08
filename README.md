@@ -8,9 +8,7 @@
 
 My name is **Rayan Sekfali**. I am a **Cybersecurity student** and a **Backend Developer** with a strong focus on building reliable and secure systems.  
 
-I have experience in backend development, particularly in designing and implementing **CRUD applications** and management systems.  
-I am comfortable working with databases, creating **RESTful APIs**, and applying the **MVP (Model–View–Presenter) architecture** to ensure clean, maintainable, and scalable projects.  
-I enjoy structuring backend logic and writing code that solves real-world problems.  
+I have experience in backend development, particularly in designing and implementing **CRUD applications** and management systems. I am comfortable working with databases, creating **RESTful APIs**, and applying the **MVP (Model–View–Presenter) architecture** to ensure clean, maintainable, and scalable projects. I enjoy structuring backend logic and writing code that solves real-world problems.  
 
 Alongside development, I am deeply interested in **Cybersecurity**. Recently, I have dedicated much of my time to **Capture The Flag (CTF) competitions** and solving security challenges, which help me sharpen both my technical and problem-solving skills.  
 
