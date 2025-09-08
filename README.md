@@ -8,11 +8,33 @@
 
 My name is **Rayan Sekfali**. I am a **Cybersecurity student** and a **Backend Developer** with a strong focus on building reliable and secure systems.  
 
-I have experience in backend development, particularly in designing and implementing **CRUD applications** and management systems. I am comfortable working with databases, creating **RESTful APIs**, and applying the **MVP (Model–View–Presenter) architecture** to ensure clean, maintainable, and scalable projects. I enjoy structuring backend logic and writing code that solves real-world problems.  
+I have experience in backend development, particularly in designing and implementing **CRUD applications** and management systems.  
+I am comfortable working with databases, creating **RESTful APIs**, and applying the **MVP (Model–View–Presenter) architecture** to ensure clean, maintainable, and scalable projects.  
+I enjoy structuring backend logic and writing code that solves real-world problems.  
 
 Alongside development, I am deeply interested in **Cybersecurity**. Recently, I have dedicated much of my time to **Capture The Flag (CTF) competitions** and solving security challenges, which help me sharpen both my technical and problem-solving skills.  
 
-My long-term goal is to **combine backend development with cybersecurity**, because I strongly believe that software must not only be functional and efficient but also **secure by design**. This intersection is where I see myself growing and making the most impact.
+My long-term goal is to **combine backend development with cybersecurity**, because I strongly believe that software must not only be functional and efficient but also **secure by design**. This intersection is where I see myself growing and making the most impact.  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rayan-sekfali-25ba16333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rayan7sek@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/sekrayan" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sek7rayan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
@@ -53,12 +75,14 @@ My long-term goal is to **combine backend development with cybersecurity**, beca
   <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sek7rayan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sek7rayan&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sek7rayan&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sek7rayan&layout=compact&theme=tokyonight)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sek7rayan&theme=tokyonight)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sek7rayan&theme=tokyo-night)
 
 ---
 
@@ -66,5 +90,4 @@ My long-term goal is to **combine backend development with cybersecurity**, beca
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sek7rayan&theme=darkhub)
 
----
 
