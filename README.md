@@ -3,7 +3,7 @@
 <div align="center">
 
 ## About Me  
-
+</div>
 My name is <b>Rayan Sekfali</b>. I am a <b>Cybersecurity student</b> and a <b>Backend Developer</b> with a strong focus on building reliable and secure systems.  
 
 I have experience in backend development, particularly in designing and implementing <b>CRUD applications</b> and management systems.  
@@ -16,7 +16,6 @@ Recently, I have dedicated much of my time to <b>Capture The Flag (CTF) competit
 My long-term goal is to <b>combine backend development with cybersecurity</b>, because I strongly believe that software must not only be functional and efficient but also <b>secure by design</b>.  
 This intersection is where I see myself growing and making the most impact.  
 
-</div>
 
 ---
 
