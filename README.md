@@ -32,9 +32,6 @@ My long-term goal is to **combine backend development with cybersecurity**, beca
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sek7rayan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
 
 ---
 
