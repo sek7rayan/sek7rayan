@@ -50,18 +50,18 @@ My long-term goal is to **combine backend development with cybersecurity**, beca
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sek7rayan&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sek7rayan&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sek7rayan&theme=darkhub)
 
 ---
 
 ## 👀 Profile Views
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR-USERNAME)
+![Profile views](https://komarev.com/ghpvc/?username=sek7rayan)
