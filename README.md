@@ -82,6 +82,6 @@ My goal is to combine backend development and cybersecurity to create software t
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sek7rayan&theme=darkhub)
+![Trophies](https://github-profile-trophy-6977s5nt1-sek7rayans-projects.vercel.app/?username=sek7rayan&theme=darkhub)
 
 
