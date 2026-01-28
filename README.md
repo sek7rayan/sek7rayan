@@ -78,10 +78,3 @@ My goal is to combine backend development and cybersecurity to create software t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sek7rayan&layout=compact&theme=tokyonight)  
 
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy-6977s5nt1-sek7rayans-projects.vercel.app/?username=sek7rayan&theme=darkhub)
-
-
