@@ -6,7 +6,13 @@
 
 </div>
 
-Hi i'm **Rayan Sekfali**. I am a **Cybersecurity student** and a **Backend Developer** with a strong focus on building reliable and secure systems.  
+Hi, I’m Rayan Sekfali, a Cybersecurity student and Backend Developer focused on building reliable, secure systems.
+
+I develop backend applications (CRUD/management systems), design RESTful APIs, work with databases, and apply the MVP architecture to keep projects clean, scalable, and maintainable.
+
+I’m also passionate about cybersecurity, especially CTF competitions, which sharpen my technical and problem-solving skills.
+
+My goal is to combine backend development and cybersecurity to create software that is secure by design.
 
 ---
 
